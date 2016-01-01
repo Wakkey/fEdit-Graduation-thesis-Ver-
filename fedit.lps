@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="24">
+      <Unit0>
+        <Filename Value="fEdit.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="9"/>
+        <CursorPos Y="35"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Main"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="629"/>
+        <CursorPos X="34" Y="635"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit_edit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Editform"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="109"/>
+        <CursorPos X="5" Y="85"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="comp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DataModule1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="5"/>
+        <CursorPos X="3" Y="24"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="functionunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="function_unit"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="13"/>
+        <CursorPos X="17" Y="526"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="windowsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="windows_unit"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="150"/>
+        <CursorPos X="16" Y="157"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="interfaceunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="interface_unit"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="16"/>
+        <TopLine Value="284"/>
+        <CursorPos X="38" Y="292"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="find_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="find_form"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="15"/>
+        <TopLine Value="153"/>
+        <CursorPos X="22" Y="167"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="repracemacro.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="reprace_unit"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="repraceMacro"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="61"/>
+        <CursorPos Y="73"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="colordlg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="color_form"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="483"/>
+        <CursorPos X="54" Y="492"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="tool_window.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ToolWindow"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="6" Y="2"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="macrow.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="macro_form"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="144"/>
+        <CursorPos X="23" Y="159"/>
+        <UsageCount Value="230"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="jsonparse.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Json_pars"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Jsonparse"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="1125"/>
+        <CursorPos X="187" Y="1175"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="jsonformedit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="JSONEditForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="JSONFormEdit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="2038"/>
+        <CursorPos X="26" Y="2044"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="jsonformdialog.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="JSONForm2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="JSONFormdialog"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="337"/>
+        <CursorPos X="3" Y="296"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="json1.pas"/>
+        <ComponentName Value="JsonMnu"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="114"/>
+        <CursorPos X="76" Y="148"/>
+        <UsageCount Value="166"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="json2.pas"/>
+        <ComponentName Value="obj_form"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="41" Y="35"/>
+        <UsageCount Value="166"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="json3.pas"/>
+        <ComponentName Value="propathy_form"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="3" Y="28"/>
+        <UsageCount Value="166"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="schema.pas"/>
+        <ComponentName Value="SchemaForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="347"/>
+        <CursorPos Y="356"/>
+        <UsageCount Value="162"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="linuxunit.pas"/>
+        <UnitName Value="LinuxUnit"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="64" Y="4"/>
+        <UsageCount Value="103"/>
+        <Loaded Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="Edit.lpr"/>
+        <EditorIndex Value="10"/>
+        <CursorPos X="48" Y="6"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\lcl\include\customcombobox.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="184"/>
+        <CursorPos Y="197"/>
+        <UsageCount Value="8"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2750"/>
+        <CursorPos Y="2758"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="380"/>
+        <CursorPos X="20" Y="402"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="956" TopLine="946"/>
+      </Position1>
+      <Position2>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="955" TopLine="945"/>
+      </Position2>
+      <Position3>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="964" TopLine="954"/>
+      </Position3>
+      <Position4>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="963" TopLine="953"/>
+      </Position4>
+      <Position5>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="964" Column="9" TopLine="954"/>
+      </Position5>
+      <Position6>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="793" Column="3" TopLine="786"/>
+      </Position6>
+      <Position7>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="624" Column="3" TopLine="622"/>
+      </Position7>
+      <Position8>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="610" Column="7" TopLine="592"/>
+      </Position8>
+      <Position9>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="679" Column="45" TopLine="679"/>
+      </Position9>
+      <Position10>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="241" Column="10" TopLine="228"/>
+      </Position10>
+      <Position11>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="322" Column="8" TopLine="310"/>
+      </Position11>
+      <Position12>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="325" Column="8" TopLine="313"/>
+      </Position12>
+      <Position13>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="830" Column="19" TopLine="818"/>
+      </Position13>
+      <Position14>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="1045" Column="32" TopLine="1029"/>
+      </Position14>
+      <Position15>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="769" Column="10" TopLine="757"/>
+      </Position15>
+      <Position16>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="832" Column="8" TopLine="819"/>
+      </Position16>
+      <Position17>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="238" Column="10" TopLine="227"/>
+      </Position17>
+      <Position18>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="235" Column="16" TopLine="226"/>
+      </Position18>
+      <Position19>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="241" Column="17" TopLine="225"/>
+      </Position19>
+      <Position20>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="325" Column="15" TopLine="310"/>
+      </Position20>
+      <Position21>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="581" TopLine="570"/>
+      </Position21>
+      <Position22>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="278" Column="3" TopLine="258"/>
+      </Position22>
+      <Position23>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="364" Column="3" TopLine="344"/>
+      </Position23>
+      <Position24>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="1014" TopLine="1006"/>
+      </Position24>
+      <Position25>
+        <Filename Value="jsonformdialog.pas"/>
+        <Caret Line="1102" Column="34" TopLine="1096"/>
+      </Position25>
+      <Position26>
+        <Filename Value="jsonformedit.pas"/>
+        <Caret Line="1952" Column="54" TopLine="1952"/>
+      </Position26>
+      <Position27>
+        <Filename Value="jsonformedit.pas"/>
+        <Caret Line="1320" Column="31" TopLine="1317"/>
+      </Position27>
+      <Position28>
+        <Filename Value="jsonformedit.pas"/>
+        <Caret Line="2044" Column="5" TopLine="2039"/>
+      </Position28>
+      <Position29>
+        <Filename Value="jsonformedit.pas"/>
+        <Caret Line="1912" Column="25" TopLine="1906"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

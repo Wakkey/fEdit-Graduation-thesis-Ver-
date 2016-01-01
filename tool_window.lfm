@@ -1,0 +1,30 @@
+object ToolWindow: TToolWindow
+  Left = 386
+  Height = 77
+  Top = 264
+  Width = 401
+  Caption = 'ToolWindow'
+  ClientHeight = 77
+  ClientWidth = 401
+  LCLVersion = '1.4.2.0'
+  object ToolBar2: TToolBar
+    Left = 0
+    Height = 26
+    Top = 0
+    Width = 401
+    AutoSize = True
+    Caption = 'ToolBar2'
+    TabOrder = 0
+  end
+  object PageControl1: TPageControl
+    Left = 0
+    Height = 51
+    Top = 26
+    Width = 401
+    Align = alClient
+    BiDiMode = bdRightToLeft
+    ParentBiDiMode = False
+    TabOrder = 1
+    Visible = False
+  end
+end

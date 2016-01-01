@@ -1,0 +1,9 @@
+object Linux_unit: TLinux_unit
+  Left = 403
+  Height = 240
+  Top = 229
+  Width = 320
+  Caption = 'Linux_unit'
+  OnCreate = FormCreate
+  LCLVersion = '1.4.0.4'
+end
